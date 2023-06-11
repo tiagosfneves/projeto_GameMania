@@ -7,4 +7,4 @@ Bem-vindo(a)! Este é o repositório do projeto de um site de games desenvolvido
 
 ## Resultado do Projeto versão desktop:
 
-![Logo do OpenAI](https://github.com/KaianNovais/GameMania-home-page/blob/main/images/Captura%20de%20Tela%202023-06-05%20a%CC%80s%2014.33.46.png)
+![Logo do OpenAI](https://raw.githubusercontent.com/tiagosfneves/projeto_GameMania/main/assets/print-page-categorias.png)
